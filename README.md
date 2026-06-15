@@ -1,19 +1,135 @@
-![logo](https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/banner.jpeg)
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="_v_alentino_"  width="400" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekpanwar-84&label=Profile%20views&color=0e75b6&style=flat" alt="valentino84" /> </p>
-- 🌱<img width="224" height="224" alt="ClipWindowsGIF" src="https://github.com/user-attachments/assets/bea4500c-6046-497a-aa28-961cf074dc5d" />
- I’m currently learning **web development**
-- 📫 How to reach me **vivekpanwar84500@gmailcom**
-- ⚡ Fun fact **I think a am funny 😁**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vivek-panwar-484b9425b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek panwar" height="30" width="40" /></a>
-<a href="https://instagram.com/_v_alentino_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_v_alentino_" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekpanwar-84&show_icons=true&locale=en&layout=compact" alt="valentino84" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekpanwar-84&show_icons=true&locale=en" alt="valentino84" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpanwar-84&" alt="valentino84" /></p>   make it most atractive with anime banner and animation
+<div align="center">
+
+![banner](https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/banner.jpeg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Vivek+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;Passionate+about+Building+Cool+Stuff+%F0%9F%94%A5;Learning+%7C+Building+%7C+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+
+</div>
+
+---
+
+<img align="right" src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/Programmer%20Coding%20GIF.gif" width="380" alt="Coding GIF"/>
+
+### 🧑‍💻 About Me
+
+```javascript
+const vivek = {
+  name: "Vivek Panwar",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  learning: "Web Development every single day 🚀",
+  funFact: "I think I am funny 😁",
+  contact: "vivekpanwar84500@gmail.com"
+};
+```
+
+<br/>
+
+- 🌱 Currently mastering **MERN Stack Development**
+- 🔭 Building projects that make a difference
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 Reach me at **vivekpanwar84500@gmail.com**
+- ⚡ Fun fact: **I think I am funny 😁**
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-panwar-484b9425b)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_v_alentino_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekpanwar84500@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=vivekpanwar-84&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🔥 MERN Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 💅 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Other Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vivekpanwar-84&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Vivek's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpanwar-84&theme=tokyonight&hide_border=true&background=0D1117" alt="Vivek's Streak" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekpanwar-84&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vivekpanwar-84&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💃 Just Vibin'
+
+<img src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/Dance%20Girl%20Sticker.gif" width="120" alt="Dance GIF"/>
+
+### "First, solve the problem. Then, write the code." 💡
+
+![Snake animation](https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*⭐ From [Vivek Panwar](https://github.com/vivekpanwar-84) with ❤️*
+
+</div>
