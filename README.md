@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/Programmer%20Coding%20GIF.gif" width="380" alt="Coding GIF"/>
+<img align="right" src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/In Love Heart Sticker.gif" width="380" alt="Coding GIF"/>
 
 ### 🧑‍💻 About Me
 
@@ -37,7 +37,7 @@ const vivek = {
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 Reach me at **vivekpanwar84500@gmail.com**
 - ⚡ Fun fact: **I think I am funny 😁**
-
+<img align="center" src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/Programmer Coding GIF.gif" width="380" alt="Coding GIF"/>
 <br clear="right"/>
 
 ---
