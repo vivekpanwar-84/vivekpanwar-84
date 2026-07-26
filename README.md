@@ -1,6 +1,6 @@
 <div align="center">   
     
-![banner](https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/banner.jpeg)
+![banner](https://raw.githubusercontent.com/vivekpanwar-84/vivekpanwar-84/main/banner.jpeg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/In Love Heart Sticker.gif" width="380" alt="Coding GIF"/>
+<img align="right" src="https://raw.githubusercontent.com/vivekpanwar-84/vivekpanwar-84/main/In%20Love%20Heart%20Sticker.gif" width="380" alt="Coding GIF"/>
 
 ### 🧑‍💻 About Me
 
@@ -37,7 +37,8 @@ const vivek = {
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 Reach me at **vivekpanwar84500@gmail.com**
 - ⚡ Fun fact: **I think I am funny 😁**
-<img align="center" src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/Programmer Coding GIF.gif" width="380" alt="Coding GIF"/>
+
+<img align="center" src="https://raw.githubusercontent.com/vivekpanwar-84/vivekpanwar-84/main/Programmer%20Coding%20GIF.gif" width="380" alt="Coding GIF"/>
 <br clear="right"/>
 
 ---
@@ -94,7 +95,7 @@ const vivek = {
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vivekpanwar-84&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Vivek's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpanwar-84&theme=tokyonight&hide_border=true&background=0D1117" alt="Vivek's Streak" width="48%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=vivekpanwar-84&theme=tokyonight&hide_border=true&background=0D1117" alt="Vivek's Streak" width="48%" />
 
 <br/>
 
@@ -118,11 +119,11 @@ const vivek = {
 
 ## 💃 Just Vibin'
 
-<img src="https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/Dance%20Girl%20Sticker.gif" width="120" alt="Dance GIF"/>
+<img src="https://raw.githubusercontent.com/vivekpanwar-84/vivekpanwar-84/main/Dance%20Girl%20Sticker.gif" width="120" alt="Dance GIF"/>
 
 ### "First, solve the problem. Then, write the code." 💡
 
-![Snake animation](https://github.com/vivekpanwar-84/vivekpanwar-84/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vivekpanwar-84/vivekpanwar-84/output/github-contribution-grid-snake.svg)
 
 </div>
 
