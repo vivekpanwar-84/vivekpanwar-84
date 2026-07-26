@@ -95,7 +95,7 @@ const vivek = {
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vivekpanwar-84&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="Vivek's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=vivekpanwar-84&theme=tokyonight&hide_border=true&background=0D1117" alt="Vivek's Streak" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivekpanwar-84&theme=tokyonight&hide_border=true&background=0D1117" alt="Vivek's Streak" width="48%" />
 
 <br/>
 
